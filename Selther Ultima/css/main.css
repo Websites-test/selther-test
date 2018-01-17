@@ -32,13 +32,11 @@ body {
     line-height: 1.5;
     color: #ddd;
 }
-
 ol, ul {
     margin: 0;
     padding: 0;
     list-style: none;
 }
-
 figure {
     margin: 0;
 }
