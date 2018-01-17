@@ -394,6 +394,9 @@
     .author-avatar {
         margin-right: 10px;
     }
+     .social-icon > ul > li > a{
+        background-color: #ffe432 !important;
+    }
 }
 
 
