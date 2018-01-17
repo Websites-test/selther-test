@@ -284,7 +284,7 @@ jQuery(function ($) { "use strict";
 	/*	Google Map Customization
 	/* =========================================================================  */
 
-	function initialize() {
+	/*function initialize() {
 
 		var myLatLng = new google.maps.LatLng(22.333851, 91.812256);
 
@@ -398,7 +398,7 @@ jQuery(function ($) { "use strict";
 		map.setMapTypeId('roadatlas');
 	}
 
-	google.maps.event.addDomListener(window, "load", initialize);
+	google.maps.event.addDomListener(window, "load", initialize);*/
 
 
 });
