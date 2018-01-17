@@ -421,6 +421,9 @@
     .author-avatar {
         margin-right: 10px;
     }
+     .social-icon > ul > li > a{
+        background-color: #ffe432;
+    }
 }
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
