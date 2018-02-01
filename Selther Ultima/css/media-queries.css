@@ -399,6 +399,11 @@
         background-color: #ffe432 !important;
     }
     .social-icon > ul > li > a > i{
+
+     .social-icon > ul > li > a{
+        background-color: #ffe432 !important;
+    }
+	.social-icon > ul > li > a > i{
         color: #333439!important;
         opacity: 1;
     }
